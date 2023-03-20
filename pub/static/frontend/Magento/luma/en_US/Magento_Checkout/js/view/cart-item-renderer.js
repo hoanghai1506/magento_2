@@ -1,0 +1,1 @@
+/home/haihoang/Work/htdocs/magento2/vendor/magento/module-checkout/view/frontend/web/js/view/cart-item-renderer.js
